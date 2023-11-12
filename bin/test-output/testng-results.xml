@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-12T12:59:07 IST" name="Default suite" finished-at="2023-11-12T12:59:25 IST" duration-ms="17483">
+    <groups>
+    </groups>
+    <test started-at="2023-11-12T12:59:07 IST" name="Default test" finished-at="2023-11-12T12:59:25 IST" duration-ms="17483">
+      <class name="Tests.MikodTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.MikodTest@50b5ac82]" started-at="2023-11-12T12:59:07 IST" name="setUp" finished-at="2023-11-12T12:59:11 IST" duration-ms="3959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="tc01_popup()[pri:0, instance:Tests.MikodTest@50b5ac82]" started-at="2023-11-12T12:59:11 IST" name="tc01_popup" finished-at="2023-11-12T12:59:18 IST" duration-ms="6204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_popup -->
+        <test-method signature="tc02_MoveToMikodSearch()[pri:0, instance:Tests.MikodTest@50b5ac82]" started-at="2023-11-12T12:59:18 IST" name="tc02_MoveToMikodSearch" finished-at="2023-11-12T12:59:21 IST" duration-ms="3439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_MoveToMikodSearch -->
+        <test-method signature="tc03_MikodSearch()[pri:0, instance:Tests.MikodTest@50b5ac82]" started-at="2023-11-12T12:59:21 IST" name="tc03_MikodSearch" finished-at="2023-11-12T12:59:25 IST" duration-ms="3683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_MikodSearch -->
+        <test-method signature="tc04_MikodNum()[pri:0, instance:Tests.MikodTest@50b5ac82]" started-at="2023-11-12T12:59:25 IST" name="tc04_MikodNum" finished-at="2023-11-12T12:59:25 IST" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04_MikodNum -->
+      </class> <!-- Tests.MikodTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
